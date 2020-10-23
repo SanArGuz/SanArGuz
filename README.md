@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying in Platzi Master
-- 🌱 I’m currently learning HTML / CSS / JS / React
+Full Stack Web Developer
+HTML / CSS / JS / React / NodeJS / MongoDB / Express 
